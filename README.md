@@ -11,7 +11,7 @@ También se modifico un archivo ubicado en la carpeta de system 32 para agregar 
 Mediante el uso de Google Cloud Console se utilizó OAuth 2.0, así se pudo conectar al proyecto y autenticarse con una cuenta de Google.
 
 <picture>
- <img alt="Un Saludo" src="https://e7.pngegg.com/pngimages/317/19/png-clipart-login-user-computer-icons-form-password-others-orange-web-application.png">
+ <img alt="Un Saludo" src="https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfFZKP_96c_1qgOjvPDM3kQoRXk-ahHXtyw6gSc97Ad0_9O8fWVeHWvEjIeyUfLMnClV0fWjZBARrgtcaGC9807j9I1IxjdQ2Pum.jpg?r=42d">
 </picture>
 
 > Eso es todo amigos.
